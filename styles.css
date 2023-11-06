@@ -1,1 +1,46 @@
 /* Write your CSS here! */
+body {
+    background-color: azure;
+    margin: 8px;
+    text-align: justify;
+    display: block;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, serif;
+    color: black;
+}
+h1 {
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, serif;
+    font-weight: bold;
+    font-size: xx-large;
+    color: mediumseagreen;
+}
+h2 {
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, serif;
+    font-weight: bold;
+    color: limegreen;
+}
+h6 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, serif;
+    color: cadetblue
+}
+img {
+    display: block;
+    width: 600px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+footer {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, serif;
+    font-size: smaller;
+    color: cadetblue
+}
+#mainHeading {
+    color: red;
+}
+.funParagraph {
+    color: green;
+}
